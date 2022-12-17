@@ -1,0 +1,19 @@
+
+> t1_ine5646@1.0.0 start
+> cross-env NODE_ENV=production node app
+
+Server running in production mode on port 3000
+MongoDB connected: localhost
+
+> t1_ine5646@1.0.0 start
+> cross-env NODE_ENV=production node app
+
+Server running in production mode on port 3000
+MongoDB connected: localhost
+
+> t1_ine5646@1.0.0 start
+> cross-env NODE_ENV=production node app
+
+Server running in production mode on port 3000
+MongoDB connected: localhost
+

@@ -1,8 +1,17 @@
 # T1_INE5646
 
-Repositório dedicado para a elaboração e desenvolvimento do trabalho 1 da disciplina de Programação para Web (INE5646) na UFSC
+Repositório dedicado para a elaboração e desenvolvimento do trabalho da disciplina de Programação para Web (INE5646).
 
-O trabalho ainda não tem um tema definido.
+Neste trabalho será desenvolvido uma aplicação web utilizando NodeJS, Express e MongoDB, que será hospedada na nuvem da UFSC. A página terá como intuito escrever histórias que poderão ser particulares ou compartilhadas entre outros usuários.
+
+Gabriela Regina Lother (17200445)
+
+Manuela Schmitz (20102278)
+
+A aplicacao esta disponivel no endereco (necessario o VPN da UFSC):
+http://cloud.gabriela.r.lother.vms.ufsc.br:3000/
+
+Link do video de apresentacao: https://youtu.be/lif3SOLjuzw
 
 `npm i express mongoose connect-mongo express-session express-handlebars dotenv method-override moments morgan passport passport-google-oauth20`
 
@@ -55,6 +64,12 @@ Para testar o mongo shell:
 
 `> quit()`
 
-## Development mode
+Para rodar o projeto em modo de desenvolvimento, basta executar o seguinte comando na pasta raiz:
+
+### Development mode
 
 `npm run dev`
+
+### Production mode
+
+`npm start`
